@@ -1,7 +1,7 @@
 
 # Ensembled Techniques
 
-A brief description of Techniques used to BOOST performance of & minimising errors in the 
+A brief description of Techniques used to BOOST performance of Algoritms & minimising errors in the 
         classification type , problemns in Machine Learning Algorithms
 
 
